@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unicredit", "unicredit", "{888791B8-A2AD-49A5-AD1D-8925B3893528}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "unicredit.Shared", "unicredit\unicredit.Shared\unicredit.Shared.shproj", "{C39ECCF2-A4EA-4A29-A5A4-58CE602D7100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unicredit.WindowsPhone", "unicredit\unicredit.WindowsPhone\unicredit.WindowsPhone.csproj", "{E9B538F1-0639-41CE-80FE-5F54AB54A886}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		unicredit\unicredit.Shared\unicredit.Shared.projitems*{e9b538f1-0639-41ce-80fe-5f54ab54a886}*SharedItemsImports = 4
+		unicredit\unicredit.Shared\unicredit.Shared.projitems*{c39eccf2-a4ea-4a29-a5a4-58ce602d7100}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Debug|ARM.Build.0 = Debug|ARM
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Debug|ARM.Deploy.0 = Debug|ARM
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Debug|x86.ActiveCfg = Debug|x86
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Debug|x86.Build.0 = Debug|x86
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Debug|x86.Deploy.0 = Debug|x86
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Release|ARM.ActiveCfg = Release|ARM
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Release|ARM.Build.0 = Release|ARM
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Release|ARM.Deploy.0 = Release|ARM
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Release|x64.ActiveCfg = Release|Any CPU
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Release|x86.ActiveCfg = Release|x86
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Release|x86.Build.0 = Release|x86
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C39ECCF2-A4EA-4A29-A5A4-58CE602D7100} = {888791B8-A2AD-49A5-AD1D-8925B3893528}
+		{E9B538F1-0639-41CE-80FE-5F54AB54A886} = {888791B8-A2AD-49A5-AD1D-8925B3893528}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://madeinitaly.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = unicredit\\unicredit.Shared\\unicredit.Shared.projitems
+		SccProjectTopLevelParentUniqueName1 = unicredit.sln
+		SccProjectName1 = unicredit/unicredit.Shared
+		SccLocalPath1 = unicredit\\unicredit.Shared
+		SccProjectUniqueName2 = unicredit\\unicredit.Shared\\unicredit.Shared.shproj
+		SccProjectTopLevelParentUniqueName2 = unicredit.sln
+		SccProjectName2 = unicredit/unicredit.Shared
+		SccLocalPath2 = unicredit\\unicredit.Shared
+		SccProjectUniqueName3 = unicredit\\unicredit.WindowsPhone\\unicredit.WindowsPhone.csproj
+		SccProjectTopLevelParentUniqueName3 = unicredit.sln
+		SccProjectName3 = unicredit/unicredit.WindowsPhone
+		SccLocalPath3 = unicredit\\unicredit.WindowsPhone
+	EndGlobalSection
+EndGlobal
