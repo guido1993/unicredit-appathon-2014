@@ -53,22 +53,4 @@ Global
 		{C39ECCF2-A4EA-4A29-A5A4-58CE602D7100} = {888791B8-A2AD-49A5-AD1D-8925B3893528}
 		{E9B538F1-0639-41CE-80FE-5F54AB54A886} = {888791B8-A2AD-49A5-AD1D-8925B3893528}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://madeinitaly.visualstudio.com/
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = unicredit\\unicredit.Shared\\unicredit.Shared.projitems
-		SccProjectTopLevelParentUniqueName1 = unicredit.sln
-		SccProjectName1 = unicredit/unicredit.Shared
-		SccLocalPath1 = unicredit\\unicredit.Shared
-		SccProjectUniqueName2 = unicredit\\unicredit.Shared\\unicredit.Shared.shproj
-		SccProjectTopLevelParentUniqueName2 = unicredit.sln
-		SccProjectName2 = unicredit/unicredit.Shared
-		SccLocalPath2 = unicredit\\unicredit.Shared
-		SccProjectUniqueName3 = unicredit\\unicredit.WindowsPhone\\unicredit.WindowsPhone.csproj
-		SccProjectTopLevelParentUniqueName3 = unicredit.sln
-		SccProjectName3 = unicredit/unicredit.WindowsPhone
-		SccLocalPath3 = unicredit\\unicredit.WindowsPhone
-	EndGlobalSection
 EndGlobal
